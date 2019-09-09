@@ -32,7 +32,7 @@
 			
 			//Get value
 			var playbookinput = $('#playbook-input').val();
-			if(playbookinput == "KMCLEGENDARYDECADE"){
+			if(playbookinput == "KMC"){
 				location.href = "playbook-page-3.html";
 			} else {
 				alert('Invalid Code');
