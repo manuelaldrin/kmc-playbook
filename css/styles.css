@@ -176,15 +176,15 @@ body{
 
 /* Main */
 	#main-wrapper{
-		max-width: 1000px;
+		max-width: 768px;
 		width: 100%;
 		margin: auto;
 	}
 
 /* Front Page */
 .front-wrap{
-	background: url(../images/playbook-cover.jpg) no-repeat center / cover;
-	min-height: 1413px;
+	background: url(../images/playbook-cover.jpg) no-repeat center / contain;
+	min-height: 1024px;
 }
 
 
