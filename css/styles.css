@@ -14,7 +14,7 @@ License URI:
 GLOBAL
 ****************************************/
 body{
-	background: #fff;
+	background: #462921;
 	color: #000;
 	padding: 0;
 	margin: 0;
@@ -176,7 +176,7 @@ body{
 
 /* Main */
 	#main-wrapper{
-		max-width: 725px;
+		max-width: 768px;
 		width: 100%;
 		margin: auto;
 	}
@@ -223,7 +223,7 @@ body{
 
 /* Playbook Page 1 */
 .playbook-page-1-wrap{
-	background: url(../images/playbook-page-1-cover.jpg) no-repeat center / contain;
+	background: url(../images/playbook-page-1-cover.jpg) no-repeat center / cover;
 	text-align: center;
 }
 
@@ -264,7 +264,7 @@ body{
 
 /* Playbook Page 2 */
 .playbook-page-2-wrap{
-	background: url(../images/playbook-page-1-cover.jpg) no-repeat center / contain;
+	background: url(../images/playbook-page-1-cover.jpg) no-repeat center / cover;
 	text-align: center;
 	color: #603913;
 }
@@ -341,7 +341,7 @@ body{
 
 /* Playbook Page 2 */
 .playbook-page-3-wrap{
-	background: url(../images/playbook-page-1-cover.jpg) no-repeat center / contain;
+	background: url(../images/playbook-page-1-cover.jpg) no-repeat center / cover;
 	text-align: center;
 	color: #603913;
 }
