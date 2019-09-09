@@ -30,7 +30,7 @@
 	});
 
 	$(window).load(function () { 
-		app.contactFormPlaceholderFunction();
+
 	});
 
 	$(window).resize(function () { 
