@@ -27,6 +27,19 @@
 
 	$(document).ready( function() {
 		app.init();
+
+		$("#playbook-submit").click(function(){
+			
+			//Get value
+			var playbookinput = $('#playbook-input').val();
+			if(playbookinput == "KMCLEGENDARYDECADE"){
+				location.href = "playbook-page-3.html";
+			} else {
+				alert('Invalid Code');
+			}
+
+			
+		});
 	});
 
 	$(window).load(function () { 
