@@ -186,6 +186,11 @@ body{
 		min-height: 1024px;
 	}
 
+	.playbook-container {
+		float: left;
+		width: 100%;
+	}
+
 /* Front Page */
 .front-wrap{
 	background: url(../images/playbook-cover.jpg) no-repeat center / contain;
